@@ -16,4 +16,8 @@ body {
     font-weight: $weight-light;
     color: $white;
     background-color: $neutral-dark-blue-bg;
+    height: 100vh;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
 }
