@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: #fff;
+  background-color: #0d192b;
+}
+
+/*# sourceMappingURL=main.css.map */
